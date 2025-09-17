@@ -92,12 +92,15 @@ Age-Calculator/
 - Clear result display
 - Responsive layout for all screen sizes
 
-### Browser Support
-- ✅ Chrome (Latest)
-- ✅ Firefox (Latest)
-- ✅ Safari (Latest)
-- ✅ Edge (Latest)
-- ✅ Opera (Latest)
+## 🌐 Browser Support
+
+| Browser | Support |
+|---------|---------|
+| Chrome  | ✅ Full Support |
+| Firefox | ✅ Full Support |
+| Safari  | ✅ Full Support |
+| Edge    | ✅ Full Support |
+| Opera   | ✅ Full Support |
 
 ## 🎨 Customization
 
