@@ -141,7 +141,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Sahin Shazi**
 - GitHub: [@SahinShazi](https://github.com/SahinShazi)
-- Email: [Email](sahin.enam10@gmail.com)
+- Email: [Sahin Enam](mailto:sahin.enam10@gmail.com)
 - LinkedIn: [Sahin Enam](https://www.linkedin.com/in/sahinenam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## 🙏 Acknowledgments
@@ -163,3 +163,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ **Star this repository if you found it helpful!**
+
+![GitHub stars](https://img.shields.io/github/stars/SahinShazi/Text-to-Voice-Converter?style=social)
+![GitHub forks](https://img.shields.io/github/forks/SahinShazi/Text-to-Voice-Converter?style=social)
+![GitHub issues](https://img.shields.io/github/issues/SahinShazi/Text-to-Voice-Converter) 
+![GitHub license](https://img.shields.io/github/license/SahinShazi/Text-to-Voice-Converter)
