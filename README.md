@@ -141,7 +141,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Sahin Shazi**
 - GitHub: [@SahinShazi](https://github.com/SahinShazi)
-- Email: [Sahin Enam](sahin.enam10@gmail.com)
+- Email: [@Sahin Enam](sahin.enam10@gmail.com)
 - LinkedIn: [Sahin Enam](https://www.linkedin.com/in/sahinenam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## 🙏 Acknowledgments
