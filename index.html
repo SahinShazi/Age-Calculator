@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elegant Age Calculator</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css" type="text/css" media="all" />
+</head>
+<body>
+    <div class="container">
+        <div class="app-icon">
+            <i class="fas fa-birthday-cake"></i>
+        </div>
+        <h1>Age Calculator</h1>
+        <div class="input-group">
+            <i class="fas fa-calendar-alt"></i>
+            <input type="date" id="dob" max="">
+        </div>
+        <div class="error" id="error-msg">Please enter a valid date of birth</div>
+        <button id="calculate-btn">
+            <i class="fas fa-calculator"></i> Calculate Age
+        </button>
+        
+        <div class="result" id="result">
+            <div class="result-card">
+                <div class="result-title">Your Age Is</div>
+                <div class="age-result">
+                    <div class="time-unit">
+                        <div class="time-value" id="years">0</div>
+                        <div class="time-label">Years</div>
+                    </div>
+                    <div class="time-unit">
+                        <div class="time-value" id="months">0</div>
+                        <div class="time-label">Months</div>
+                    </div>
+                    <div class="time-unit">
+                        <div class="time-value" id="days">0</div>
+                        <div class="time-label">Days</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="next-birthday" id="next-birthday">
+                <i class="fas fa-gift"></i>
+                <span id="birthday-text">Enter your date of birth to see countdown</span>
+            </div>
+        </div>
+        
+        <div class="copyright">
+            © 2025 Age Calculator | Created by Sahin
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
